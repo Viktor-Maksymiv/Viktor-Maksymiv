@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Python backend development.
+- 🐱‍💻 I’m a Computer Science student at university.
 <!--
 **Viktor-Maksymiv/Viktor-Maksymiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
